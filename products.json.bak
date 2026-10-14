@@ -1,0 +1,1156 @@
+{
+  "categories": [
+    {
+      "id": "rekuperator",
+      "name_uz": "🔄 Rekuperatorlar",
+      "name_ru": "🔄 Рекуператоры",
+      "description_uz": "Xonaga doimiy toza havo kiritib, issiqlik va energiyani tejovchi zamonaviy uskunalar",
+      "description_ru": "Системы вентиляции с рекуперацией тепла для сохранения энергии и свежего воздуха"
+    },
+    {
+      "id": "kanal",
+      "name_uz": "🌀 Kanal ventilyatorlari",
+      "name_ru": "🌀 Канальные вентиляторы",
+      "description_uz": "Havo quvurlari (dumaloq va to'rtburchak kanal) ichiga o'rnatiladigan ventilyatorlar",
+      "description_ru": "Вентиляторы для круглых и прямоугольных вентиляционных каналов"
+    },
+    {
+      "id": "sentrifugal",
+      "name_uz": "🌪 Markazdan qochma (Ulitka)",
+      "name_ru": "🌪 Центробежные (Улитка)",
+      "description_uz": "Katta havo hajmi va yuqori bosim talab qilinadigan sanoat obyektlari va oshxonalar uchun",
+      "description_ru": "Центробежные улитки для промышленных объектов, цехов и кухонь"
+    },
+    {
+      "id": "osevoy",
+      "name_uz": "💨 Osevoy (O‘qli) ventilyatorlar",
+      "name_ru": "💨 Осевые вентиляторы",
+      "description_uz": "Sex, ferma, issiqxona va omborlar uchun katta havo oqimini ta'minlovchi ventilyatorlar",
+      "description_ru": "Для теплиц, складов, цехов и ферм с большой производительностью воздуха"
+    },
+    {
+      "id": "sovutgich",
+      "name_uz": "❄️ Suvli sovutgichlar (KTS)",
+      "name_ru": "❄️ Водяные охладители (KTS)",
+      "description_uz": "Issiq havoni suv hisobiga tabiiy va toza salqinlatuvchi ekologik uskunalar",
+      "description_ru": "Экологичные охладители воздуха испарительного типа"
+    },
+    {
+      "id": "aksessuarlar",
+      "name_uz": "🚪 Reshetka va aksessuarlar",
+      "name_ru": "🚪 Решетки и аксессуары",
+      "description_uz": "Ventilyatsiya panjaralari, peremichkalar va montaj aksessuarlari",
+      "description_ru": "Вентиляционные решетки, перемычки и монтажные аксессуары"
+    }
+  ],
+  "products": [
+    {
+      "id": "kwx",
+      "categoryId": "kanal",
+      "company": "Kalvent / Ventstore",
+      "origin_uz": "Turkiya 🇹🇷",
+      "origin_ru": "Турция 🇹🇷",
+      "series": "KWX (220)",
+      "title_uz": "Kalvent KWX Kanal Ventilyatori",
+      "title_ru": "Канальный вентилятор Kalvent KWX",
+      "photo": "photos/kwx.jpg",
+      "desc_uz": "Turkiyada ishlab chiqarilgan yuqori sifatli kanalli ventilyatorlar. Shovqin darajasi past, korpusi galvanizatsiyalangan po'latdan. O'rnatish oson, energiya tejamkor.",
+      "desc_ru": "Качественные канальные вентиляторы турецкого производства. Низкий уровень шума, прочный корпус, высокая энергоэффективность и простой монтаж.",
+      "specs": {
+        "voltage": "230V",
+        "power": "80 - 210 W",
+        "airflow": "290 - 1800 m³/soat",
+        "pressure": "110 - 700 Pa"
+      },
+      "models": [
+        {
+          "model": "KVX-100",
+          "airflow": "290 m³/soat",
+          "price": 45,
+          "currency": "USD"
+        },
+        {
+          "model": "KVX-125",
+          "airflow": "410 m³/soat",
+          "price": 52,
+          "currency": "USD"
+        },
+        {
+          "model": "KVX-150",
+          "airflow": "600 m³/soat",
+          "price": 56,
+          "currency": "USD"
+        },
+        {
+          "model": "KVX-160",
+          "airflow": "620 m³/soat",
+          "price": 58,
+          "currency": "USD"
+        },
+        {
+          "model": "KVX-200",
+          "airflow": "1000 m³/soat",
+          "price": 77,
+          "currency": "USD"
+        },
+        {
+          "model": "KVX-250",
+          "airflow": "1120 m³/soat",
+          "price": 80,
+          "currency": "USD"
+        },
+        {
+          "model": "KVX-315",
+          "airflow": "1800 m³/soat",
+          "price": 90,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🔩 Kalvent KWX (Temir, Turkiya 🇹🇷)",
+      "btn_ru": "🔩 Kalvent KWX (Металл, Турция 🇹🇷)",
+      "body_uz": "Dumaloq temir (Galvaniz po‘lat) 🔩",
+      "body_ru": "Круглый металл (Оцинкованная сталь) 🔩",
+      "control_uz": "Standart elektr tarmog‘i (230V)",
+      "control_ru": "Стандартная сеть (230V)"
+    },
+    {
+      "id": "cdr2e",
+      "categoryId": "kanal",
+      "company": "Ventstore",
+      "origin_uz": "Xitoy 🇨🇳",
+      "origin_ru": "Китай 🇨🇳",
+      "series": "CDR2E",
+      "title_uz": "CDR2E Kuchli Bosimli Kanal Ventilyatori",
+      "title_ru": "Канальный вентилятор высокого давления CDR2E",
+      "photo": "photos/cdr2e.jpg",
+      "desc_uz": "Ventilyatsiya tizimlari uchun kuchli bosim va yuqori unumdorlikka ega zamonaviy dumaloq kanalli ventilyator. Uy, ofis, restoran va sexlar uchun mo'ljallangan.",
+      "desc_ru": "Современный круглый канальный вентилятор с высоким давлением и производительностью. Подходит для домов, офисов, кафе и производств.",
+      "specs": {
+        "voltage": "220V",
+        "airflow": "350 - 1800 m³/soat",
+        "rpm": "2550 - 2650 ayl/min",
+        "pressure": "295 - 710 Pa",
+        "diameters": "100 / 125 / 150 / 200 / 250 / 315 mm"
+      },
+      "models": [
+        {
+          "model": "CDR2E-100",
+          "diameter": "100 mm",
+          "airflow": "350 m³/soat",
+          "price": 45,
+          "currency": "USD"
+        },
+        {
+          "model": "CDR2E-125",
+          "diameter": "125 mm",
+          "airflow": "480 m³/soat",
+          "price": 52,
+          "currency": "USD"
+        },
+        {
+          "model": "CDR2E-150",
+          "diameter": "150 mm",
+          "airflow": "720 m³/soat",
+          "price": 56,
+          "currency": "USD"
+        },
+        {
+          "model": "CDR2E-200",
+          "diameter": "200 mm",
+          "airflow": "1150 m³/soat",
+          "price": 75,
+          "currency": "USD"
+        },
+        {
+          "model": "CDR2E-250",
+          "diameter": "250 mm",
+          "airflow": "1350 m³/soat",
+          "price": 80,
+          "currency": "USD"
+        },
+        {
+          "model": "CDR2E-315",
+          "diameter": "315 mm",
+          "airflow": "1800 m³/soat",
+          "price": 90,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🔩 CDR2E Yuqori bosimli (Temir, Xitoy 🇨🇳)",
+      "btn_ru": "🔩 CDR2E Высокого давления (Металл, Китай 🇨🇳)",
+      "body_uz": "Dumaloq metall (Mustahkam po‘lat) 🔩",
+      "body_ru": "Круглый металл (Прочная сталь) 🔩",
+      "control_uz": "Standart kuchlanish (220V)",
+      "control_ru": "Стандартное напряжение (220V)"
+    },
+    {
+      "id": "hz_pultli",
+      "categoryId": "kanal",
+      "company": "Ventstore",
+      "origin_uz": "Xitoy 🇨🇳",
+      "origin_ru": "Китай 🇨🇳",
+      "series": "HZ (Pultli / С пультом)",
+      "title_uz": "Pultli HZ Kanal Ventilyatori (220V)",
+      "title_ru": "Канальный вентилятор HZ с пультом ДУ (220V)",
+      "photo": "photos/hz_pultli.jpg",
+      "desc_uz": "Masofadan pult orqali boshqariluvchi ixcham va qulay kanal ventilyatori. Kvartira, uy, ofis va do'konlar uchun ideal yechim.",
+      "desc_ru": "Компактный канальный вентилятор с беспроводным пультом дистанционного управления. Идеален для квартир, коттеджей, офисов и магазинов.",
+      "specs": {
+        "voltage": "220V",
+        "control_uz": "Masofaviy pult",
+        "control_ru": "Дистанционный пульт ДУ",
+        "noise_uz": "Past shovqin",
+        "noise_ru": "Низкий уровень шума"
+      },
+      "models": [
+        {
+          "model": "HZ-100",
+          "airflow": "390 m³/soat",
+          "power": "30 W",
+          "price": 47,
+          "currency": "USD"
+        },
+        {
+          "model": "HZ-150",
+          "airflow": "600 m³/soat",
+          "power": "40 W",
+          "price": 56,
+          "currency": "USD"
+        },
+        {
+          "model": "HZ-200",
+          "airflow": "1300 m³/soat",
+          "power": "80 W",
+          "price": 60,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🎮 HZ Seriyasi (Plastik PULTLI, Xitoy 🇨🇳)",
+      "btn_ru": "🎮 Серия HZ (Пластик с ПУЛЬТОМ ДУ, Китай 🇨🇳)",
+      "body_uz": "Plastik korpus (Ixcham va sokin) 🧴",
+      "body_ru": "Пластиковый корпус (Компактный и тихий) 🧴",
+      "control_uz": "Masofadan boshqarish PULTI mavjud (2-3 tezlik) 🎮",
+      "control_ru": "С дистанционным ПУЛЬТОМ управления (2-3 скорости) 🎮"
+    },
+    {
+      "id": "dpt",
+      "categoryId": "kanal",
+      "company": "Ventstore",
+      "origin_uz": "Xitoy 🇨🇳",
+      "origin_ru": "Китай 🇨🇳",
+      "series": "DPT",
+      "title_uz": "DPT Yuqori Samarali Kanal Ventilyatori",
+      "title_ru": "Канальный вентилятор высокой эффективности DPT",
+      "photo": "photos/dpt.jpg",
+      "desc_uz": "Xonalar va truba tizimlarida samarali havo almashinuvini ta'minlovchi DPT seriyali kanalli ventilyatorlar. Kuchli va barqaror ishlaydi.",
+      "desc_ru": "Эффективный канальный вентилятор серии DPT для систем вентиляции. Стабильная непрерывная работа и высокое статическое давление.",
+      "specs": {
+        "voltage": "220V",
+        "airflow": "310 - 2900 m³/soat",
+        "pressure": "180 - 630 Pa",
+        "diameters": "100 / 125 / 150 / 200 / 250 / 315 mm"
+      },
+      "models": [
+        {
+          "model": "DPT-100",
+          "diameter": "100 mm",
+          "airflow": "310 m³/soat",
+          "price": 45,
+          "currency": "USD"
+        },
+        {
+          "model": "DPT-125",
+          "diameter": "125 mm",
+          "airflow": "420 m³/soat",
+          "price": 52,
+          "currency": "USD"
+        },
+        {
+          "model": "DPT-150",
+          "diameter": "150 mm",
+          "airflow": "650 m³/soat",
+          "price": 56,
+          "currency": "USD"
+        },
+        {
+          "model": "DPT-200",
+          "diameter": "200 mm",
+          "airflow": "1200 m³/soat",
+          "price": 76,
+          "currency": "USD"
+        },
+        {
+          "model": "DPT-250",
+          "diameter": "250 mm",
+          "airflow": "1500 m³/soat",
+          "price": 82,
+          "currency": "USD"
+        },
+        {
+          "model": "DPT-315",
+          "diameter": "315 mm",
+          "airflow": "2900 m³/soat",
+          "price": 95,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🧴 DPT Sokin seriyasi (Plastik, Xitoy 🇨🇳)",
+      "btn_ru": "🧴 Серия DPT (Бесшумный пластик, Китай 🇨🇳)",
+      "body_uz": "Plastik korpus (Shovqinsiz ishlash) 🧴",
+      "body_ru": "Пластиковый корпус (Низкий уровень шума) 🧴",
+      "control_uz": "Standart kuchlanish (220V)",
+      "control_ru": "Стандартное напряжение (220V)"
+    },
+    {
+      "id": "kayi_rec",
+      "categoryId": "kanal",
+      "company": "KAYI / Ventstore",
+      "origin_uz": "Turkiya 🇹🇷",
+      "origin_ru": "Турция 🇹🇷",
+      "series": "REC",
+      "title_uz": "KAYI REC Kanalli Ventilyator",
+      "title_ru": "Канальный вентилятор прямоугольный KAYI REC",
+      "photo": "photos/kayi_rec.jpg",
+      "desc_uz": "Turkiyada ishlab chiqarilgan yuqori sifatli to'rtburchak kanal ventilyatorlari. Katta havo oqimi, sanoat va maishiy obyektlar uchun ishonchli yechim.",
+      "desc_ru": "Прямоугольный канальный вентилятор турецкого производства KAYI REC. Отличное решение для жилых, коммерческих и промышленных зданий.",
+      "specs": {
+        "voltage": "230V",
+        "power": "90W - 1460W",
+        "airflow": "520 - 9300 m³/soat",
+        "pressure": "70 - 86 Pa"
+      },
+      "models": [
+        {
+          "model": "REC-40-20",
+          "airflow": "520 - 1200 m³/soat",
+          "power": "90W - 180W",
+          "price": 120,
+          "currency": "USD"
+        },
+        {
+          "model": "REC-50-25",
+          "airflow": "1400 - 2100 m³/soat",
+          "power": "250W - 350W",
+          "price": 165,
+          "currency": "USD"
+        },
+        {
+          "model": "REC-60-35",
+          "airflow": "2800 - 4500 m³/soat",
+          "power": "550W - 800W",
+          "price": 230,
+          "currency": "USD"
+        },
+        {
+          "model": "REC-70-40",
+          "airflow": "5000 - 9300 m³/soat",
+          "power": "1100W - 1460W",
+          "price": 340,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🔩 KAYI REC (To‘rtburchak temir, Turkiya 🇹🇷)",
+      "btn_ru": "🔩 KAYI REC (Прямоугольный металл, Турция 🇹🇷)",
+      "body_uz": "To‘rtburchak temir kanal (Galvaniz po‘lat) 🔩",
+      "body_ru": "Прямоугольный стальной корпус 🔩",
+      "control_uz": "Sanoat tarmog‘i (230V)",
+      "control_ru": "Промышленная сеть (230V)"
+    },
+    {
+      "id": "kmx",
+      "categoryId": "kanal",
+      "company": "Ventstore",
+      "origin_uz": "Xitoy 🇨🇳",
+      "origin_ru": "Китай 🇨🇳",
+      "series": "KMX Plastik",
+      "title_uz": "KMX Plastik Shovqinsiz Kanal Ventilyatori",
+      "title_ru": "Бесшумный пластиковый канальный вентилятор KMX",
+      "photo": "photos/kmx.jpg",
+      "desc_uz": "Mustahkam polipropilen (PP) plastik korpusli, past shovqinli (32-71 dB), 2 tezlik rejimiga ega aralash oqimli kanal ventilyatori. IEC standartlariga to'liq mos.",
+      "desc_ru": "Пластиковый бесшумный канальный вентилятор смешанного типа KMX (PP корпус). 2 скорости вращения, влагозащита IP44, низкий уровень шума.",
+      "specs": {
+        "airflow": "319 - 2575 m³/soat",
+        "power": "40 W - 320 W",
+        "noise": "32 - 71 dB (3 metrda)",
+        "protection": "IP44, F klass izolyatsiya",
+        "temp": "-30°C dan +60°C gacha"
+      },
+      "models": [
+        {
+          "model": "KMX-100",
+          "airflow": "319 m³/soat",
+          "power": "40 W",
+          "price": 48,
+          "currency": "USD"
+        },
+        {
+          "model": "KMX-125",
+          "airflow": "450 m³/soat",
+          "power": "55 W",
+          "price": 55,
+          "currency": "USD"
+        },
+        {
+          "model": "KMX-150",
+          "airflow": "800 m³/soat",
+          "power": "80 W",
+          "price": 65,
+          "currency": "USD"
+        },
+        {
+          "model": "KMX-200",
+          "airflow": "1250 m³/soat",
+          "power": "130 W",
+          "price": 85,
+          "currency": "USD"
+        },
+        {
+          "model": "KMX-250",
+          "airflow": "1800 m³/soat",
+          "power": "220 W",
+          "price": 110,
+          "currency": "USD"
+        },
+        {
+          "model": "KMX-315",
+          "airflow": "2575 m³/soat",
+          "power": "320 W",
+          "price": 140,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🧴 Kalvent KMX (Plastik shovqinsiz, Turkiya 🇹🇷)",
+      "btn_ru": "🧴 Kalvent KMX (Пластик бесшумный, Турция 🇹🇷)",
+      "body_uz": "Plastik (Yuqori sifatli shovqinsiz polimer) 🧴",
+      "body_ru": "Пластик (Высококачественный бесшумный полимер) 🧴",
+      "control_uz": "Standart elektr tarmog‘i (220V)",
+      "control_ru": "Стандартная сеть (220V)"
+    },
+    {
+      "id": "uvs_igk",
+      "categoryId": "rekuperator",
+      "company": "UVENTS / Ventstore",
+      "origin_uz": "Turkiya 🇹🇷",
+      "origin_ru": "Турция 🇹🇷",
+      "series": "UVS-IGK (230)",
+      "title_uz": "UVENTS UVS-IGK (230) Havo Rekuperatori",
+      "title_ru": "Рекуператор воздуха UVENTS UVS-IGK (230)",
+      "photo": "photos/uvs_igk.jpg",
+      "desc_uz": "Turkiyada ishlab chiqarilgan sanoat va tijorat darajasidagi rekuperator. Issiqlikni saqlab, xonadagi havoni doimiy toza saqlaydi, elektr energiyasini 70-85% gacha tejaydi.",
+      "desc_ru": "Промышленный рекуператор воздуха турецкого производства UVENTS. Сохраняет тепло зимой и прохладу летом, снижает энергозатраты на 70-85%.",
+      "specs": {
+        "voltage": "230V",
+        "power": "2x230W - 2x800W",
+        "airflow": "1800 - 6000 m³/soat",
+        "rpm": "1380 - 2670 ayl/min",
+        "pressure": "380 - 710 Pa"
+      },
+      "models": [
+        {
+          "model": "UVS-IGK 100",
+          "voltage": "230V",
+          "power": "2x230 W",
+          "airflow": "1800 m³/soat",
+          "rpm": "2670",
+          "pressure": "710 Pa",
+          "price": 1020,
+          "currency": "USD"
+        },
+        {
+          "model": "UVS-IGK 200",
+          "voltage": "230V",
+          "power": "2x210 W",
+          "airflow": "2500 m³/soat",
+          "rpm": "2400",
+          "pressure": "380 Pa",
+          "price": 1260,
+          "currency": "USD"
+        },
+        {
+          "model": "UVS-IGK 300",
+          "voltage": "230V",
+          "power": "2x400 W",
+          "airflow": "3000 m³/soat",
+          "rpm": "1470",
+          "pressure": "430 Pa",
+          "price": 1500,
+          "currency": "USD"
+        },
+        {
+          "model": "UVS-IGK 400",
+          "voltage": "230V",
+          "power": "2x510 W",
+          "airflow": "4000 m³/soat",
+          "rpm": "1400",
+          "pressure": "610 Pa",
+          "price": 1680,
+          "currency": "USD"
+        },
+        {
+          "model": "UVS-IGK 500",
+          "voltage": "230V",
+          "power": "2x800 W",
+          "airflow": "6000 m³/soat",
+          "rpm": "1380",
+          "pressure": "530 Pa",
+          "price": 2154,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🇹🇷 Uvents UVS-IGK (Sanoat rekuperatori)",
+      "btn_ru": "🇹🇷 Uvents UVS-IGK (Промышленный рекуператор)",
+      "body_uz": "Galvanizatsiyalangan mustahkam metall korpus 🔩",
+      "body_ru": "Оцинкованный прочный металлический корпус 🔩",
+      "control_uz": "Avtomatlashtirilgan boshqaruv (230V)",
+      "control_ru": "Автоматическое управление (230V)"
+    },
+    {
+      "id": "igkp_220",
+      "categoryId": "rekuperator",
+      "company": "Ventstore",
+      "origin_uz": "Turkiya / Yevropa standarti",
+      "origin_ru": "Турция / Евростандарт",
+      "series": "IGKP (220)",
+      "title_uz": "IGKP (220) Sanoat Rekuperatori",
+      "title_ru": "Промышленный рекуператор IGKP (220)",
+      "photo": "photos/igkp_220.jpg",
+      "desc_uz": "1000 dan 7000 m³/soatgacha kuchli havo almashinuvi. Ofis, savdo markazi, klinika, sex va omborlar uchun ideal mustahkam konstruksiya.",
+      "desc_ru": "Мощная приточно-вытяжная установка с рекуперацией от 1000 до 7000 м³/ч. Идеальна для офисов, ТЦ, клиник, цехов и складов.",
+      "specs": {
+        "voltage": "220V",
+        "power": "270W - 2200W",
+        "airflow": "1000 - 7000 m³/soat",
+        "rpm": "1400 ayl/min",
+        "priceRange": "$700 - $3000"
+      },
+      "models": [
+        {
+          "model": "IGKP-1000",
+          "airflow": "1000 m³/soat",
+          "power": "270 W",
+          "price": 700,
+          "currency": "USD"
+        },
+        {
+          "model": "IGKP-2000",
+          "airflow": "2000 m³/soat",
+          "power": "450 W",
+          "price": 1100,
+          "currency": "USD"
+        },
+        {
+          "model": "IGKP-3500",
+          "airflow": "3500 m³/soat",
+          "power": "850 W",
+          "price": 1650,
+          "currency": "USD"
+        },
+        {
+          "model": "IGKP-5000",
+          "airflow": "5000 m³/soat",
+          "power": "1400 W",
+          "price": 2200,
+          "currency": "USD"
+        },
+        {
+          "model": "IGKP-7000",
+          "airflow": "7000 m³/soat",
+          "power": "2200 W",
+          "price": 3000,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🇹🇷 IGKP (220) Katta hajm rekuperatori",
+      "btn_ru": "🇹🇷 IGKP (220) Высокопроизводительный",
+      "body_uz": "Metall korpus, F-klass izolyatsiya 🔩",
+      "body_ru": "Металлический корпус, изоляция класса F 🔩",
+      "control_uz": "220V, EC tejamkor motor",
+      "control_ru": "220V, энергосберегающий EC-мотор"
+    },
+    {
+      "id": "airox_fem",
+      "categoryId": "rekuperator",
+      "company": "Airox / Ventstore",
+      "origin_uz": "Xitoy 🇨🇳",
+      "origin_ru": "Китай 🇨🇳",
+      "series": "FEM",
+      "title_uz": "AIROX FEM Yangi Avlod Rekuperatori",
+      "title_ru": "Рекуператор нового поколения AIROX FEM",
+      "photo": "photos/airox_fem.jpg",
+      "desc_uz": "Uy va ofislar uchun zamonaviy va ixcham rekuperator. Toza havo kiritadi, shovqinsiz ishlaydi, energiya sarfini tejaydi.",
+      "desc_ru": "Современный компактный рекуператор воздуха для домов и офисов. Обеспечивает приток очищенного воздуха без сквозняков и шума.",
+      "specs": {
+        "voltage": "220V",
+        "feature_uz": "Filtrli tozalash tizimi, shovqinsiz, ixcham dizayn",
+        "feature_ru": "Фильтрация воздуха, тихая работа, тонкий корпус",
+        "priceFrom": "$425"
+      },
+      "models": [
+        {
+          "model": "FEM-250",
+          "airflow": "250 m³/soat",
+          "price": 425,
+          "currency": "USD"
+        },
+        {
+          "model": "FEM-350",
+          "airflow": "350 m³/soat",
+          "price": 510,
+          "currency": "USD"
+        },
+        {
+          "model": "FEM-500",
+          "airflow": "500 m³/soat",
+          "price": 620,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🇨🇳 AIROX FEM (Uy va ofis uchun yangi avlod)",
+      "btn_ru": "🇨🇳 AIROX FEM (Новое поколение для дома и офиса)",
+      "body_uz": "Ixcham estetik korpus, shovqinsiz 🧴",
+      "body_ru": "Компактный эстетичный бесшумный корпус 🧴",
+      "control_uz": "Elektron boshqaruv paneli",
+      "control_ru": "Электронная панель управления"
+    },
+    {
+      "id": "airox_hrv",
+      "categoryId": "rekuperator",
+      "company": "Airox / Ventstore",
+      "origin_uz": "Xitoy 🇨🇳",
+      "origin_ru": "Китай 🇨🇳",
+      "series": "HRV-S / HRV-C",
+      "title_uz": "AIROX HRV Kanalli Rekuperator",
+      "title_ru": "Канальный рекуператор AIROX HRV (HRV-S / HRV-C)",
+      "photo": "photos/airox_hrv.jpg",
+      "desc_uz": "EC motorli, Plug-and-play tizimli, alyuminiy va galvanizatsiyalangan korpusli energiya tejovchi rekuperator. -20°C dan +50°C gacha ishlaydi.",
+      "desc_ru": "Энергоэффективный рекуператор с EC-двигателями. Plug-and-play подключение, алюминиевый теплообменник, диапазон от -20°C до +50°C.",
+      "specs": {
+        "standard": "EN 60204-1 xalqaro standart",
+        "motor": "Tejamkor EC motorlar",
+        "protection": "IP44, F klass",
+        "duty": "S1 uzluksiz ish rejimi"
+      },
+      "models": [
+        {
+          "model": "HRV-S 150",
+          "airflow": "150 m³/soat",
+          "price": 460,
+          "currency": "USD"
+        },
+        {
+          "model": "HRV-S 250",
+          "airflow": "250 m³/soat",
+          "price": 540,
+          "currency": "USD"
+        },
+        {
+          "model": "HRV-C 350",
+          "airflow": "350 m³/soat",
+          "price": 680,
+          "currency": "USD"
+        },
+        {
+          "model": "HRV-C 500",
+          "airflow": "500 m³/soat",
+          "price": 820,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🇨🇳 AIROX HRV (Kanalli rekuperator EC/AC)",
+      "btn_ru": "🇨🇳 AIROX HRV (Канальный рекуператор EC/AC)",
+      "body_uz": "Kanalli yassi korpus (Shift ostiga oson joylashadi) 🔩",
+      "body_ru": "Канальный плоский корпус под потолок 🔩",
+      "control_uz": "Uzluksiz tezlik sozlagich",
+      "control_ru": "Плавная регулировка скорости"
+    },
+    {
+      "id": "airox_ulitka",
+      "categoryId": "sentrifugal",
+      "company": "Airox / Ventstore",
+      "origin_uz": "Xitoy 🇨🇳",
+      "origin_ru": "Китай 🇨🇳",
+      "series": "11-62 Markazdan qochma",
+      "title_uz": "Airox 11-62 Sentrifugal (Ulitka) Ventilyator",
+      "title_ru": "Центробежный радиальный вентилятор (Улитка) Airox 11-62",
+      "photo": "photos/airox_ulitka.jpg",
+      "desc_uz": "Ishlab chiqarish sexlari, zavod, ombor va restoranlar uchun kuchli markazdan qochma (ulitka) ventilyator. Kuchli havo oqimi va yuqori bosim.",
+      "desc_ru": "Мощный радиальный вентилятор типа 'Улитка' для цехов, складов, производств и вытяжек. Большой объем воздуха и высокое давление.",
+      "specs": {
+        "voltage": "220V va 380V",
+        "power": "0.75 kW dan 7.5 kW gacha",
+        "airflow": "1700 - 21 473 m³/soat",
+        "pressure": "450 - 1420 Pa",
+        "rpm": "960 - 1450 ayl/min"
+      },
+      "models": [
+        {
+          "model": "11-62 № 2.5A",
+          "power": "0.75 kW",
+          "airflow": "1700 - 2500 m³/soat",
+          "price": 144,
+          "currency": "USD"
+        },
+        {
+          "model": "11-62 № 2.8A",
+          "power": "1.1 kW",
+          "airflow": "2500 - 3800 m³/soat",
+          "price": 175,
+          "currency": "USD"
+        },
+        {
+          "model": "11-62 № 3.15A",
+          "power": "1.5 kW",
+          "airflow": "3800 - 5200 m³/soat",
+          "price": 210,
+          "currency": "USD"
+        },
+        {
+          "model": "11-62 № 3.55A",
+          "power": "2.2 kW",
+          "airflow": "5200 - 7500 m³/soat",
+          "price": 270,
+          "currency": "USD"
+        },
+        {
+          "model": "11-62 № 4.0A",
+          "power": "3.0 kW",
+          "airflow": "7500 - 11000 m³/soat",
+          "price": 340,
+          "currency": "USD"
+        },
+        {
+          "model": "11-62 № 4.5A",
+          "power": "4.0 kW",
+          "airflow": "11000 - 16000 m³/soat",
+          "price": 420,
+          "currency": "USD"
+        },
+        {
+          "model": "11-62 № 5.0A",
+          "power": "7.5 kW",
+          "airflow": "16000 - 21473 m³/soat",
+          "price": 590,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🌪 AIROX CF-11 Sentrifugal ulitka (220V/380V)",
+      "btn_ru": "🌪 AIROX CF-11 Центробежная улитка (220V/380V)",
+      "body_uz": "Mustahkam po‘lat ulitka korpus 🔩",
+      "body_ru": "Стальной спиральный корпус улитка 🔩",
+      "control_uz": "220V va 380V modellar",
+      "control_ru": "Модели на 220V и 380V"
+    },
+    {
+      "id": "dkt_ulitka",
+      "categoryId": "sentrifugal",
+      "company": "Ventstore",
+      "origin_uz": "Xitoy / Yevropa standarti",
+      "origin_ru": "Китай / Евростандарт",
+      "series": "DKT",
+      "title_uz": "DKT Ishonchli Markazdan Qochma Ventilyator",
+      "title_ru": "Радиальный вентилятор DKT",
+      "photo": "photos/dkt_ulitka.jpg",
+      "desc_uz": "Sanoat obyektlari va katta ventkanallar uchun yuqori samaradorlikka ega metall korpusli markazdan qochma ventilyator.",
+      "desc_ru": "Высокоэффективный центробежный вентилятор серии DKT для вентиляционных шахт и производств.",
+      "specs": {
+        "voltage": "220V / 380V",
+        "body": "Mustahkam metall korpus",
+        "application_uz": "Sex, restoran, ombor",
+        "application_ru": "Цех, ресторан, склады"
+      },
+      "models": [
+        {
+          "model": "DKT-2.5",
+          "power": "0.75 kW",
+          "airflow": "1800 m³/soat",
+          "price": 150,
+          "currency": "USD"
+        },
+        {
+          "model": "DKT-3.0",
+          "power": "1.5 kW",
+          "airflow": "3500 m³/soat",
+          "price": 220,
+          "currency": "USD"
+        },
+        {
+          "model": "DKT-4.0",
+          "power": "3.0 kW",
+          "airflow": "6500 m³/soat",
+          "price": 330,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🌪 AIROX 9-19 O‘ta yuqori bosimli sanoat ulitkasi",
+      "btn_ru": "🌪 AIROX 9-19 Высокого давления промышленный",
+      "body_uz": "O‘ta kuchli sanoat metall korpusi 🔩",
+      "body_ru": "Сверхпрочный металлический корпус 🔩",
+      "control_uz": "380V sanoat elektr tarmog‘i",
+      "control_ru": "Промышленная трехфазная сеть 380V"
+    },
+    {
+      "id": "airox_pcf",
+      "categoryId": "sentrifugal",
+      "company": "Airox / Ventstore",
+      "origin_uz": "Xitoy 🇨🇳",
+      "origin_ru": "Китай 🇨🇳",
+      "series": "PCF Oshxona",
+      "title_uz": "AIROX PCF Oshxonalar Uchun Kuchli Ventilyator (380V)",
+      "title_ru": "Кухонный вытяжной вентилятор AIROX PCF (380V)",
+      "photo": "photos/airox_pcf.jpg",
+      "desc_uz": "Kafe, restoran va ishlab chiqarish oshxonalari uchun professional kanal ventilyatori. Yog'li havo, issiq bug' va hidlarni tez chiqarib yuboradi. Motor oqimdan tashqarida joylashgan.",
+      "desc_ru": "Профессиональный вытяжной вентилятор для кухонь ресторанов и кафе. Эффективно удаляет жирный пар, дым и запахи. Двигатель вынесен из зоны воздушного потока.",
+      "specs": {
+        "voltage": "380V",
+        "pressure": "409 - 897 Pa",
+        "feature_uz": "Yog' va issiq bug'ga chidamli, sanoat tipidagi motor",
+        "feature_ru": "Стойкий к жиру и высокой температуре, мощный мотор"
+      },
+      "models": [
+        {
+          "model": "PCF 240A",
+          "power": "0.75 kW",
+          "airflow": "3 851 m³/soat",
+          "price": 342,
+          "currency": "USD"
+        },
+        {
+          "model": "PCF 260A",
+          "power": "1.1 kW",
+          "airflow": "4 161 m³/soat",
+          "price": 360,
+          "currency": "USD"
+        },
+        {
+          "model": "PCF 280A",
+          "power": "1.5 kW",
+          "airflow": "6 457 m³/soat",
+          "price": 411,
+          "currency": "USD"
+        },
+        {
+          "model": "PCF 300A",
+          "power": "2.2 kW",
+          "airflow": "6 982 m³/soat",
+          "price": 482,
+          "currency": "USD"
+        },
+        {
+          "model": "PCF 300B",
+          "power": "3.0 kW",
+          "airflow": "7 527 m³/soat",
+          "price": 510,
+          "currency": "USD"
+        },
+        {
+          "model": "PCF 320A",
+          "power": "4.0 kW",
+          "airflow": "10 010 m³/soat",
+          "price": 564,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🍳 AIROX PCF (Kafe va restoran oshxonalari uchun)",
+      "btn_ru": "🍳 AIROX PCF (Для кухонь кафе и ресторанов)",
+      "body_uz": "Yog‘ va issiq bug‘ga chidamli sanoat metall korpus 🔩",
+      "body_ru": "Жаростойкий и жиростойкий стальной корпус 🔩",
+      "control_uz": "380V sanoat quvvati",
+      "control_ru": "Промышленное питание 380V"
+    },
+    {
+      "id": "airox_ktb",
+      "categoryId": "osevoy",
+      "company": "Airox / Ventstore",
+      "origin_uz": "Xitoy 🇨🇳",
+      "origin_ru": "Китай 🇨🇳",
+      "series": "KTB (220V)",
+      "title_uz": "AIROX KTB Osevoy (O'qli) Ventilyatorlar",
+      "title_ru": "Осевые вентиляторы AIROX KTB (220V)",
+      "photo": "photos/airox_ktb.jpg",
+      "desc_uz": "Issiqxona (teplitsa), omborxona, ishlab chiqarish sexlari va chorvachilik fermalari uchun ulkan havo aylanmasini beruvchi mustahkam osevoy ventilyator.",
+      "desc_ru": "Мощный осевой вентилятор для теплиц, складов, производственных цехов и животноводческих комплексов. Огромный объем прокачки воздуха.",
+      "specs": {
+        "voltage": "220V",
+        "power": "0.37 kW - 1.5 kW",
+        "airflow": "16 000 - 55 000 m³/soat",
+        "rpm": "450 - 720 ayl/min",
+        "diameters": "60x60 sm dan 153x153 sm gacha"
+      },
+      "models": [
+        {
+          "model": "KTB-60",
+          "size": "60x60 sm",
+          "power": "0.37 kW",
+          "airflow": "16 000 m³/soat",
+          "price": 135,
+          "currency": "USD"
+        },
+        {
+          "model": "KTB-80",
+          "size": "80x80 sm",
+          "power": "0.55 kW",
+          "airflow": "24 000 m³/soat",
+          "price": 165,
+          "currency": "USD"
+        },
+        {
+          "model": "KTB-100",
+          "size": "100x100 sm",
+          "power": "0.75 kW",
+          "airflow": "32 000 m³/soat",
+          "price": 195,
+          "currency": "USD"
+        },
+        {
+          "model": "KTB-125",
+          "size": "125x125 sm",
+          "power": "1.1 kW",
+          "airflow": "42 000 m³/soat",
+          "price": 235,
+          "currency": "USD"
+        },
+        {
+          "model": "KTB-153",
+          "size": "153x153 sm",
+          "power": "1.5 kW",
+          "airflow": "55 000 m³/soat",
+          "price": 285,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "💨 AIROX KTB (Issiqxona va sexlar uchun)",
+      "btn_ru": "💨 AIROX KTB (Для теплиц, ферм и цехов)",
+      "body_uz": "Katta o‘qli metall korpus va pichoqlar 🔩",
+      "body_ru": "Большой стальной корпус и крыльчатка 🔩",
+      "control_uz": "220V / 380V",
+      "control_ru": "220V / 380V"
+    },
+    {
+      "id": "pog_osevoy",
+      "categoryId": "osevoy",
+      "company": "Ventstore",
+      "origin_uz": "Xitoy 🇨🇳",
+      "origin_ru": "Китай 🇨🇳",
+      "series": "POG",
+      "title_uz": "POG Seriyali Sanoat Osevoy Ventilyatori",
+      "title_ru": "Промышленный осевой вентилятор серии POG",
+      "photo": "photos/pog_osevoy.jpg",
+      "desc_uz": "Zavod, ombor, sex, angar va boshqa katta hajmdagi binolarning devoriga o'rnatiladigan mustahkam himoya panjarali osevoy ventilyator.",
+      "desc_ru": "Стеновой промышленный осевой вентилятор серии POG с защитной решеткой. Для ангаров, цехов, заводов и складов.",
+      "specs": {
+        "voltage": "220V / 380V",
+        "body": "Himoya panjarali metall korpus",
+        "priceFrom": "$135"
+      },
+      "models": [
+        {
+          "model": "POG-400",
+          "diameter": "400 mm",
+          "airflow": "3500 m³/soat",
+          "price": 135,
+          "currency": "USD"
+        },
+        {
+          "model": "POG-500",
+          "diameter": "500 mm",
+          "airflow": "6000 m³/soat",
+          "price": 165,
+          "currency": "USD"
+        },
+        {
+          "model": "POG-600",
+          "diameter": "600 mm",
+          "airflow": "9500 m³/soat",
+          "price": 205,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "💨 POG Seriyasi (Zavod va katta angarlar)",
+      "btn_ru": "💨 Серия POG (Для заводов и ангаров)",
+      "body_uz": "Sanoat o‘qli metall konstruksiyasi 🔩",
+      "body_ru": "Промышленная осевая конструкция 🔩",
+      "control_uz": "Sanoat quvvati",
+      "control_ru": "Промышленное питание"
+    },
+    {
+      "id": "dhr",
+      "categoryId": "rekuperator",
+      "company": "Ventstore",
+      "origin_uz": "Xitoy 🇨🇳",
+      "origin_ru": "Китай 🇨🇳",
+      "series": "DHR",
+      "title_uz": "DHR Energiya Tejovchi Rekuperator",
+      "title_ru": "Энергосберегающий рекуператор DHR",
+      "photo": "photos/dhr.jpg",
+      "desc_uz": "Ventilyatsiya havo oqimi hisobiga elektr toksiz ishlaydigan issiqlikni qayta tiklash qurilmasi. Chiqayotgan havodagi issiqlikni saqlab qoladi.",
+      "desc_ru": "Приточно-вытяжная установка с рекуперацией тепла, работающая без подключения к электричеству (за счет перепада давления).",
+      "specs": {
+        "voltage": "Toksiz / Автономный",
+        "airflow": "1000 - 6000 m³/soat"
+      },
+      "models": [
+        {
+          "model": "DHR 10",
+          "airflow": "1000 m³/soat",
+          "price": 270,
+          "currency": "USD"
+        },
+        {
+          "model": "DHR 20",
+          "airflow": "2000 m³/soat",
+          "price": 348,
+          "currency": "USD"
+        },
+        {
+          "model": "DHR 30",
+          "airflow": "2700 m³/soat",
+          "price": 498,
+          "currency": "USD"
+        },
+        {
+          "model": "DHR 40",
+          "airflow": "4000 m³/soat",
+          "price": 612,
+          "currency": "USD"
+        },
+        {
+          "model": "DHR 50",
+          "airflow": "6000 m³/soat",
+          "price": 1068,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🇨🇳 DHR (Elektr toksiz ishlovchi rekuperator)",
+      "btn_ru": "🇨🇳 DHR (Работает без электричества)",
+      "body_uz": "Mustahkam metall korpus 🔩",
+      "body_ru": "Прочный металлический корпус 🔩",
+      "control_uz": "Toksiz, havo oqimi bosimi hisobiga ishlaydi ⚡️🚫",
+      "control_ru": "Автономный, работает за счет перепада давления ⚡️🚫"
+    },
+    {
+      "id": "kts",
+      "categoryId": "sovutgich",
+      "company": "Ventstore",
+      "origin_uz": "Xitoy 🇨🇳",
+      "origin_ru": "Китай 🇨🇳",
+      "series": "KTS",
+      "title_uz": "KTS Sanoat Suvli Sovutgichi",
+      "title_ru": "Промышленный охладитель воздуха KTS",
+      "photo": "photos/kts.jpg",
+      "desc_uz": "Sex, kafe, ombor va binolarni suv bug'lanishi hisobiga freonsiz tabiiy salqinlatuvchi samarali sovutgich.",
+      "desc_ru": "Экологичный охладитель воздуха для кафе, цехов, складов и террас. Работает без фреона на воде.",
+      "specs": {
+        "voltage": "220V",
+        "power": "1000W",
+        "airflow": "5000 - 13000 m³/soat"
+      },
+      "models": [
+        {
+          "model": "KTS-760",
+          "airflow": "5000 m³/soat",
+          "price": 53,
+          "currency": "USD"
+        },
+        {
+          "model": "KTS-840",
+          "airflow": "7000 m³/soat",
+          "price": 65,
+          "currency": "USD"
+        },
+        {
+          "model": "KTS-965",
+          "airflow": "9000 m³/soat",
+          "price": 75,
+          "currency": "USD"
+        },
+        {
+          "model": "KTS-1145",
+          "airflow": "11000 m³/soat",
+          "price": 85,
+          "currency": "USD"
+        },
+        {
+          "model": "KTS-1300",
+          "airflow": "13000 m³/soat",
+          "price": 95,
+          "currency": "USD"
+        },
+        {
+          "model": "KTS-1800 (1000W)",
+          "airflow": "18000 m³/soat",
+          "price": 372,
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "❄️ KTS Seriyasi (Sanoat suvli sovutgichi)",
+      "btn_ru": "❄️ Серия KTS (Промышленный водяной охладитель)",
+      "body_uz": "Suvga va korroziyaga chidamli korpus",
+      "body_ru": "Влагостойкий антикоррозийный корпус",
+      "control_uz": "220V, avtomatik suv aylanish tizimi",
+      "control_ru": "220V, автоматическая система циркуляции воды"
+    },
+    {
+      "id": "reshetka",
+      "categoryId": "aksessuarlar",
+      "company": "Ventstore",
+      "origin_uz": "O‘zbekiston / Turkiya 🇺🇿 🇹🇷",
+      "origin_ru": "Узбекистан / Турция 🇺🇿 🇹🇷",
+      "series": "Reshetka",
+      "title_uz": "Ventilyatsiya Panjaralari (Reshetka)",
+      "title_ru": "Вентиляционные решетки (Жалюзи)",
+      "photo": "photos/reshetka.jpg",
+      "desc_uz": "Barcha turdagi rang va o‘lchamlarda yuqori sifatli ventilyatsiya reshetkalari. Oldindan buyurtma asosida tez fursatda tayyorlab beriladi.",
+      "desc_ru": "Высококачественные вентиляционные решетки любых цветов и размеров. Изготовление под заказ в кратчайшие сроки.",
+      "specs": {
+        "sizes": "30x30, 45x45, 60x60, 75x75 sm"
+      },
+      "models": [
+        {
+          "model": "Reshetka 30 x 30 sm",
+          "airflow": "O‘lcham / Размер",
+          "price": "Buyurtma asosida / Под заказ",
+          "currency": "USD"
+        },
+        {
+          "model": "Reshetka 45 x 45 sm",
+          "airflow": "O‘lcham / Размер",
+          "price": "Buyurtma asosida / Под заказ",
+          "currency": "USD"
+        },
+        {
+          "model": "Reshetka 60 x 60 sm",
+          "airflow": "O‘lcham / Размер",
+          "price": "Buyurtma asosida / Под заказ",
+          "currency": "USD"
+        },
+        {
+          "model": "Reshetka 75 x 75 sm",
+          "airflow": "O‘lcham / Размер",
+          "price": "Buyurtma asosida / Под заказ",
+          "currency": "USD"
+        }
+      ],
+      "btn_uz": "🚪 Ventilyatsiya panjaralari (Reshetka)",
+      "btn_ru": "🚪 Вентиляционные решетки (Жалюзи)",
+      "body_uz": "Aluminiy va metall profilli panjaralar",
+      "body_ru": "Алюминиевый и металлический профиль",
+      "control_uz": "Mexanik / Sozlanuvchi",
+      "control_ru": "Механические / Регулируемые"
+    }
+  ],
+  "storeInfo": {
+    "name": "VENTSTORE",
+    "slogan_uz": "Toza havo - to'g'ri tanlovdan boshlanadi! Ishonchli va kafolatli yechim!",
+    "slogan_ru": "Чистый воздух начинается с правильного выбора! Надежные и проверенные решения!",
+    "address_uz": "Toshkent sh., Usta Shirin ko'chasi, Jome bozor, Evro Aziya 2-blok, 30-do'kon",
+    "address_ru": "г. Ташкент, ул. Уста Ширин, рынок Джоме, Евро Азия 2-блок, 30-магазин",
+    "phones": [
+      "+998 33 018 33 00",
+      "+998 33 017 33 00",
+      "+998 33 016 33 00",
+      "+998 88 010 33 00"
+    ],
+    "telegram": "@ventstore_uz",
+    "website": "http://ventstore.uz"
+  }
+}

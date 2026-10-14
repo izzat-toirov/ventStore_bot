@@ -1,0 +1,16 @@
+{
+  "name": "ventstore-bot",
+  "version": "1.0.0",
+  "description": "Ventstore rasmiy Telegram boti",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["telegram", "bot", "ventstore", "ventilation"],
+  "author": "Ventstore",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "telegraf": "^4.16.3"
+  }
+}
