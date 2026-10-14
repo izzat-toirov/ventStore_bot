@@ -778,3 +778,14 @@ bot.launch({ dropPendingUpdates: true }).catch((err) => {
 // To'xtatish signallari
 process.once('SIGINT', () => bot.stop('SIGINT'));
 process.once('SIGTERM', () => bot.stop('SIGTERM'));
+
+// Bulutli serverlar (Render / Koyeb / UptimeRobot) uchun port tinglash
+const http = require('http');
+const PORT = process.env.PORT || 3000;
+http.createServer((req, res) => {
+  res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' });
+  res.end('Ventstore Telegram boti faol ishlamoqda! 🚀');
+}).listen(PORT, () => {
+  console.log(`🌐 Web server ${PORT}-portda ishga tushdi.`);
+});
+
