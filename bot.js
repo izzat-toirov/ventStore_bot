@@ -101,8 +101,8 @@ const i18n = {
       `📞 VENTSTORE BILAN ALOQA:\n\n` +
       `Biz bilan bog‘lanish uchun telefon raqamlar:\n` +
       `☎️ +998 88 010 33 00\n` +
-      `☎️ +998 33 018 33 00\n` +
-      `☎️ +998 33 017 33 00\n` +
+      `☎️ +998 97 407 33 00\n` +
+      `☎️ +998 99 307 61 74\n` +
       `☎️ +998 33 016 33 00\n` +
       `☎️ +998 33 010 33 00\n\n` +
       `💬 Telegram admin: @Ventstore_Admin\n` +
@@ -112,12 +112,13 @@ const i18n = {
       `📍 Manzil: Jome bozor, EvroAsia 2-blok, 30-do‘kon`,
     address_text:
       `📍 DO‘KON MANZILI:\n\n` +
-      `Toshkent shahri, Usta Shirin ko‘chasi, Jom'e bozori, EvroAsia (2-blok), 30-do‘kon.\n\n` +
-      `Mo‘ljal: Jom'e qurilish mollari bozori.\n` +
-      `Ish vaqti: Har kuni 08:30 dan 18:00 gacha.\n\n` +
+      `Toshkent shahri, Sergili Index bozor , E01 blok, 1056 do'kon\n\n` +
+      `Mo‘ljal: Sergili Index bozor.\n` +
+      `Ish vaqti: Har kuni 09:00 dan 18:00 gacha.\n\n` +
       `📞 Telefonlar:\n` +
-      `+998 88 010 33 00\n` +
-      `+998 33 018 33 00`,
+      `+998 97 407 33 00\n` +
+      `+998 88 010 33 00`
+      ,
     about_text:
       `ℹ️ VENTSTORE HAQIDA:\n\n` +
       `Ventstore — O‘zbekistonda Turkiya va Xitoyning yetakchi ishlab chiqaruvchilaridan shamollatish va ventilyatsiya uskunalarini to‘g‘ridan-to‘g‘ri yetkazib beruvchi birinchi qo‘l do‘koni.\n\n` +
